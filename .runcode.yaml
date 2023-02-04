@@ -1,7 +1,8 @@
 onCreate:
-  - printf "\nWelcome to RunCode."
-  - printf "\n\nThis is a blank workspace with vscode web."
-  - printf "\n\nYou may change this content and automate as per your requirement"
+  - |
+        printf "\nWelcome to RunCode."
+        printf "\n\nThis is a blank workspace with vscode web."
+        printf "\n\nYou may change this content and automate as per your requirement"
 
 onStart:
   - |
